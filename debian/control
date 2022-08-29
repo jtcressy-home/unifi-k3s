@@ -1,0 +1,14 @@
+Source: unifi-k3s
+Section: contrib/utils
+Priority: optional
+Maintainer: Joel Cressy <joel@jtcressy.net>
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.3.0
+Homepage: https://github.com/jtcressy-home/unifi-k3s
+#Vcs-Browser: https://github.com/jtcressy-home/unifi-k3s
+#Vcs-Git: https://github.com/jtcressy-home/unifi-k3s.git
+
+Package: unifi-k3s
+Architecture: all
+Depends: ${misc:Depends}
+Description: Unifi k3s service.

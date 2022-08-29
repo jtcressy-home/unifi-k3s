@@ -1,0 +1,5 @@
+unifi-k3s (1.0.0) stable; urgency=medium
+
+  * Initial release.
+
+ -- Joel Cressy <joel@jtcressy.net>  Mon, 29 Aug 2022 11:00:00 -0600
